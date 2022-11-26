@@ -1,11 +1,8 @@
-
 public class SwitchDemo {
 
 	public static void main(String[] args) {
-		
 	int numDays = numOfDays(2016, 2);
 	System.out.println("Number of days in given year and month are: " + numDays);
-
 	}
 	
 	static int numOfDays(int year, int month) {
@@ -57,10 +54,8 @@ public class SwitchDemo {
 		default:
 			System.out.println("Invalid Month");
 			break;
-			
 		}
 		
 		return numDays;
 	}
-
 }
