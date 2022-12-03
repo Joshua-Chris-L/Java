@@ -23,4 +23,4 @@ public class StaticKeynotesDemo {
 	public static int sumStatic(int num) {
 		return num + addNumStatic;
 	}
-}c
+}
