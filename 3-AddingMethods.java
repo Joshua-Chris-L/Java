@@ -34,14 +34,5 @@ public class AddingMethods {
 		System.out.println("Grade of " + studentName + " is: " + grade);
 		System.out.println("*******************************");
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		
 }
